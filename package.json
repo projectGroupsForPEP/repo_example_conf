@@ -1,0 +1,28 @@
+{
+  "name": "template_vue",
+  "version": "1.0.0",
+  "description": "A vue template for lg-cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elegantTemplate/template_vue.git"
+  },
+  "author": "longer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elegantTemplate/template_vue/issues"
+  },
+  "homepage": "https://github.com/elegantTemplate/template_vue#readme",
+  "dependencies": {
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.7.1",
+    "eslint-plugin-vue": "^6.0.1",
+    "vue": "^2.6.10",
+    "vue-router": "^3.1.3",
+    "webpack-zepto": "0.0.1"
+  }
+}
